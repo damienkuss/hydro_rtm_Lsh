@@ -1,2 +1,2 @@
 # hydro_rtm_Lsh
-Hydraulic calculations for mountain streams with width / height ratio
+Streamlit application for hydraulic calculations in mountain streams with width / height ratio
