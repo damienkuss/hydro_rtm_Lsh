@@ -10,7 +10,7 @@ from hydro_rtm import h_critique_mu, Hs_critique_mu, h_ferguson_mu
 
 logo = Image.open('river.png')
 st.set_page_config(layout="centered", page_icon=logo, page_title="Calcul L sur h")
-st.image("desktop.png")
+st.image("Desktop.png")
 
 
 
