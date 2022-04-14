@@ -1,6 +1,3 @@
-
-from faulthandler import disable
-from tkinter import DISABLED
 import streamlit as st
 import numpy as np
 import pandas as pd
